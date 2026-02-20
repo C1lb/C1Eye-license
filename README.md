@@ -1,2 +1,2 @@
-# C1Eye-license
+# OpenedEyes-license
 This is a custom license.
